@@ -1,20 +1,9 @@
-  =>  Template Name    : Startup - Startup Website Template
-
-  =>  Template Link    : https://htmlcodex.com/startup-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
-
-
 1. install the any web server, say tomcat
 
 2. checkout the pearlweb repo to local folder
 
-3. copy the pearlweb folder to /tomcat/webapps folder
+3. copy all the files from "pearlweb" folder to /tomcat/webapps/PTSS folder
 
-4. open - http://localhost:8080/PTSS/
+4. start tomcat server from /tomcat/bin - startup.bat from command promt
+
+5. open - http://localhost:8080/PTSS/
